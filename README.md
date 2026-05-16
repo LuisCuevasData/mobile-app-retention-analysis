@@ -104,4 +104,4 @@ jupyter notebook mobile_app_retention_analysis.ipynb
 ## Author
 
 **Luis Cuevas**  
-[GitHub](https://github.com/LuisCuevasData) · [LinkedIn](https://www.linkedin.com/in/luiscuevasdata) · [Portfolio](https://luiscuevasportfolio.netlify.app)
+[LinkedIn](www.linkedin.com/in/luis-fabian-cuevas) · [Portfolio](https://luiscuevasportfolio.netlify.app)
